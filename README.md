@@ -9,11 +9,9 @@ A project form 'LastCoder' 'spread' that helps us to digitlize India our moto is
 
 # Problem statement :
 
-
 In contemporary urban landscapes, the persistence of civic issues such as damaged roads, overflowing or absent dustbins, and malfunctioning streetlights has underscored the critical need for an efficient and transparent reporting mechanism. The existing avenues for citizens to communicate such concerns to the respective government bodies are often convoluted, leading to delays in issue resolution and a lack of visibility into the status of reported problems.
 
 Citizens face challenges in promptly notifying the appropriate authorities about infrastructure issues in their communities. This lack of a streamlined and user-friendly reporting system not only hampers the responsiveness of government bodies but also diminishes the overall quality of public services. The absence of a real-time tracking mechanism further contributes to a sense of disconnect between citizens and their local governance.
-
 
 # Solution :
 
@@ -28,22 +26,23 @@ One of the key features of "Spread" is its real-time tracking mechanism, allowin
 # Table of contents
 
 # Technology Stack
-1. REACT (Frontend)  
+
+1. REACT (Frontend)
 2. BOOTSTRAP
 3. NODEJS (javascript runtime)
 4. EXPRESS
-5  JWT (FOR AUTHENCATION)
+5. JWT (FOR AUTHENCATION)
 6. BCRYPT (for password hashing)
 7. Multer (for uploding images)
 8. MongoDB (for Database)
 
 # Installation guidlines
 
-# Mongodb and Node js must be install 
+# Mongodb and Node js must be install
+
 Mongodb link:https://www.mongodb.com/try/download/community
 
 Nodejs link: https://nodejs.org/en
-
 
 project is divided in two folders 'client' and 'server'
 
@@ -58,37 +57,31 @@ project is divided in two folders 'client' and 'server'
 In the local enviroment there will be nothing in the home screen you will have to post report by going to report section and please make sure that 'uploads' folder is present inside the 'server' folder .
 
 # Flow chart
+
 ![alt logo](https://i.ibb.co/k5tpcZL/Spread-Flow-Diagram-drawio.png)
 
 # NOTE
+
 At first we want our application should be functional rather than focusing on user interface and we will continue adding new feature and UI will be improved
 soon
 
-
 # Note
+
 You can see several pages like home, login, signup, report and admin dashboard (for admin page go to url 'localhost:5173/admin' )
 
-
 # Contributors
+
 1. Dheeraj kumar verma
 2. sonu kumar saw
 3. Rupesh pandit
 
-
-
-
-
 # upcoming features
-
 
 1. google map integration
 2. custom marker in map
 3. seperate app for admin
 4. worker and admin will be govt bodies
-5. Every post have vote and comment button that determin priority of the report 
-5. various filtration option like: Pincode, Area Name, etc for both admin and for user 
-
+5. Every post have vote and comment button that determin priority of the report
+6. various filtration option like: Pincode, Area Name, etc for both admin and for user
 
 # we invite intrested person to contribute to this project
-
-
